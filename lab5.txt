@@ -1,0 +1,11 @@
+### --- CMPUT 404 Lab 5 --- ###
+### --- Eric Brisson --- ###
+
+# Question 1
+A static site generator makes it super easy to throw up static content very quickly
+without fuss. The biggest disadvantage would be a lesser ability to display dynamic content
+-- the site relies entirely on the files being currently hosted by the server, and you'd need
+change those files to make changes on the site.
+
+# Question 2
+https://ericbrisson.github.io
