@@ -1,0 +1,6 @@
+html, body {
+    margin: 0;
+    border: 0;
+    font-size: 100%;
+    background: linear-gradient(148deg, rgba(131,129,162,1) 11%, rgba(155,184,199,1) 41%, rgba(0,212,255,1) 100%);
+  }
